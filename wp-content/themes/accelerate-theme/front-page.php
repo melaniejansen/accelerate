@@ -24,4 +24,12 @@ get_header(); ?>
 	</div><!-- .container -->
 </section><!-- .home-page -->
 
+<section class="featured-work"> 
+	<div class="site-content">
+		<h3>Featured Work</h3>
+
+		
+	</div>
+</section>
+
 <?php get_footer(); ?>
